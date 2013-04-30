@@ -1,0 +1,44 @@
+body {
+	background: rgb(200, 200, 200);
+	margin: 0;
+	color: rgb(75, 75, 75);
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+	height: 1000px;
+	width: 500px;
+}
+
+
+.recipe-id {
+	width: 200px;
+	height: 50px;
+}
+
+.get-recipe {
+	width: 200px;
+	height: 50px;
+}
+
+button {
+	background-color: red;
+	height: 35px;
+	width: 160px;
+	margin-top: 50px;
+	color: white;
+}
+
+input {
+	background-color: white;
+	height: 35px;
+	width: 250px;
+	margin-top: 50px;
+	color: black;
+}
+
+.button-active {
+	background-color: red;
+	color: white;
+}
+
